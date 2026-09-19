@@ -15,7 +15,6 @@
 - 🎓 BCA Student
 - 💻 Learning and building with modern web technologies
 - 🌱 Currently improving my JavaScript and development skills
-- 🐍 Comfortable with Python and C
 - 🎯 Interested in Full-Stack Development, AI, and Cybersecurity
 - 🚀 Always working on new projects and improving my skills
 
