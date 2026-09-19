@@ -57,7 +57,6 @@
 
 - 🌐 **Portfolio Website** — My personal developer portfolio
 - 🎬 **Netflix Clone** — A frontend project built to strengthen my HTML and CSS skills
-- 🐍 **Python Projects** — Programming and problem-solving projects
 
 > More projects coming soon 🚀
 
